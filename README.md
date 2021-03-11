@@ -16,7 +16,7 @@ to create some sample data via a script here: ```/resources/demo_data.sql```. Th
 
 Given the input string: "Hello world! How (sp?) are you today (;" split it into a list of words. You must strip all punctuation except for emoticons. Result for example: ['Hello','world', 'how', 'sp', 'are', 'you', 'today', '(;']
 
-##Part 3
+## Part 3
 Architecture
 
 Describe on a high level how you would design a messaging backend.
